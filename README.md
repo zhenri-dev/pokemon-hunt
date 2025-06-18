@@ -16,7 +16,7 @@ Perfis e Funcionalidades:
 ### Gestor (usuário administrador)
 - [x] Deve ser possível se autenticar;
 - [x] Deve ser possível listar todas as capturas;
-- [] Deve ser possível filtrar as capturas;
+- [x] Deve ser possível filtrar as capturas;
 - [x] Deve ser possível aprovar/negar uma captura;
 - [x] Deve ser possível obter uma leaderboard das patrulhas com mais capturas;
 - [x] Deve ser possível comparar duas patrulhas;
